@@ -1,7 +1,3 @@
-Below is an English version of the project description with the requested modifications:
-
----
-
 # CorMulT: Correlation-aware Multimodal Transformer for Unaligned Multimodal Language Sequences
 
 This project implements a PyTorch version of the Correlation-aware Multimodal Transformer (CorMulT). Built as an improvement over previous transformer-based multimodal frameworks, CorMulT incorporates explicit modality correlation learning in a two-stage training process to boost performance in tasks like Multimodal Sentiment Analysis.
@@ -147,5 +143,3 @@ During Stage 1, the model saves the learned correlation evaluation weights to th
 ## Acknowledgement
 
 We thank all the contributors of the open-source projects that served as inspiration for this work. If you use CorMulT in your research or projects, please cite the corresponding paper and acknowledge the original ideas.
-
-For any questions or suggestions, please open an issue or contact the authors at yangmin@cmu.edu.
